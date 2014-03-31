@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1221194893">
+    <data-source source="LOCAL" name="Rails redmine: test" uuid="e71869c9-eca8-48c7-beed-69085a8cee38">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/redmine_test</jdbc-url>
+      <user-name>redmine</user-name>
+      <user-password>dfdadf98df9adfc5df98df9adfcfdf9bdf99</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails redmine: production" uuid="27e4511f-16d4-4b10-b275-8e2d885d8ed3">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/redmine</jdbc-url>
+      <user-name>redmine</user-name>
+      <user-password>dfdadf98df9adfc5df98df9adfcfdf9bdf99</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
